@@ -1,4 +1,4 @@
-# FakeNews
+# Fake News Detection
 
 Fake news's simple meaning is to incorporate information that leads people to the wrong path.Nowadays fake news spreading like water and people share this information without verifying it. This is often done to further or impose certain ideas and is often achieved with political agendas.
 
@@ -21,4 +21,4 @@ To check how well our model we use some metrics to find the accuracy of our mode
 - Recall
 - F1-Score
 
-Best Performing model is that of SVM which gives 97% accuravy
+Best Performing model is that of SVM which gives 97% accuracy
